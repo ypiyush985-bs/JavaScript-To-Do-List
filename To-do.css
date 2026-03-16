@@ -7,10 +7,10 @@ body {
 }
 
 .app-container {
-    background: white;
+    background: rgb(253, 253, 253);
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(52, 19, 118, 0.1);
     width: 350px;
     text-align: center;
 }
