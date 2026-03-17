@@ -1,2 +1,2 @@
-# Movie-Fetcher
+# JavaScript-To-Do-List
 A lightweight, interactive To-Do List application built with JavaScript, HTML, and CSS. This project allows users to dynamically add, edit, and remove daily tasks. Utilizing modern ES6 syntax and the browser's localStorage, the app effectively manages state and ensures data persistence across page reloads, serving as a practical demonstration of DOM manipulation, event delegation, and fundamental front-end logic.
